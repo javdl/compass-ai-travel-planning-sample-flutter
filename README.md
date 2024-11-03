@@ -13,18 +13,18 @@ below for you to follow!
 
 We recommend trying this project in IDX since it handles all dependencies for you. You are able to launch this project in IDX and get going testing with only slight configuration required.
 
-<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2FFirebaseExtended%2Fcompass-ai-travel-planning-sample-flutter">
+<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Fjavdl%2Fcompass-ai-travel-planning-sample-flutter">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.idx.dev/btn/try_dark_32.svg">
+      srcset="https://cdn.idx.dev/btn/open_dark_32.svg">
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://cdn.idx.dev/btn/try_light_32.svg">
+      srcset="https://cdn.idx.dev/btn/open_light_32.svg">
     <img
       height="32"
-      alt="Try in IDX"
-      src="https://cdn.idx.dev/btn/try_purple_32.svg">
+      alt="Open in IDX"
+      src="https://cdn.idx.dev/btn/open_purple_32.svg">
   </picture>
 </a>
 
